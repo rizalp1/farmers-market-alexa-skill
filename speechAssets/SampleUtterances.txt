@@ -1,0 +1,3 @@
+FarmersMarketIntent when is the Ballard Farmers market open
+FarmersMarketIntent which market is open now
+FarmersMarketIntent where is Ballard Farmers market

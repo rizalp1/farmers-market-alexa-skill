@@ -1,0 +1,686 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "FarmersMarketWhenIntent",
+        "samples": [
+          "when is the {MarketName} open",
+          "what time does the {MarketName} open",
+          "what day is {MarketName} open",
+          "what day is {MarketName}",
+          "when will {MarketName} open",
+        ],
+        "slots": [
+          {
+            "name": "MarketName",
+            "type": "LIST_OF_MARKETS"
+          }
+        ]
+      },
+      {
+        "name": "FarmersMarketWhereIntent",
+        "samples": [
+          "where is {MarketName}",
+          "what is {MarketName} address",
+          "what is the address of {MarketName}",
+          "what street is {MarketName} at",
+          "what street is {MarketName}"
+        ],
+        "slots": [
+          {
+            "name": "MarketName",
+            "type": "LIST_OF_MARKETS"
+          }
+        ]
+      },
+      {
+        "name": "FarmersMarketWhichIntent",
+        "samples": [
+          "which market is open on {TimeSlot}",
+          "which market is open {TimeSlot}",
+          "what market is open on {TimeSlot}",
+          "what market is open {TimeSlot}",
+          "what is open on {TimeSlot}",
+          "what is open {TimeSlot}"
+        ],
+        "slots": [
+          {
+            "name": "TimeSlot",
+            "type": "LIST_OF_TIME_VALUES"
+          }
+        ]
+      },
+      {
+        "name": "FarmersMarketDescribeIntent",
+        "samples": [
+          "tell me about {MarketName}",
+          "describe {MarketName}",
+          "details about {MarketName}",
+          "give me details about {MarketName}",
+          "{MarketName}"
+        ],
+        "slots": [
+          {
+            "name": "MarketName",
+            "type": "LIST_OF_MARKETS"
+          }
+        ]
+      }
+    ],
+    "invocationName": "community farmers",
+    "types": [
+      {
+        "name": "LIST_OF_MARKETS",
+        "values": [
+          {
+            "name": {
+              "value": "Anacortes Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Anacortes Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Arlington Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Auburn International Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Bainbridge Island Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Ballard Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Bayview Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Belfair Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Bellevue Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Bellingham Farmers Market - Downtown"
+            }
+          },
+          {
+            "name": {
+              "value": "Bellingham Farmers Market - Downtown"
+            }
+          },
+          {
+            "name": {
+              "value": "Bellingham Farmers Market - Fairhaven"
+            }
+          },
+          {
+            "name": {
+              "value": "Bothell Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Bremerton Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Broadway Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Burien Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Capitol Hill Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Carnation Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Chimacum Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Columbia City Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Coupeville Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Crossroads Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Des Moines Waterfront Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Des Moines Waterfront Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Duvall Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Eastside Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Edmonds Museum Garden Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Edmonds Museum Summer Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Everett Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Everett Station Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Farm to Table Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Federal Way Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Ferndale Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Fife Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Friday Farmers Market Everett Mall"
+            }
+          },
+          {
+            "name": {
+              "value": "Harstine Island Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Issaquah Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Juanita Friday Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Kent East Hill Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Kent Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Kingston Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Kirkland Wednesday Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Kittitas County Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Lake City Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Lake Forest Park Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Lakewood Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Langley Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Leavenworth Community Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Madrona Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Magnolia Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Maple Valley Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Marysville Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Mercer Island Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Mill Creek Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Mount Vernon Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Mukilteo Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "North Bend Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Oak Harbor Farmers' Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Orting Valley Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Park Ridge Community Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Phinney Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Pike Place Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Pike Place Market Evening Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Pike Place Market Express at City Hall Plaza"
+            }
+          },
+          {
+            "name": {
+              "value": "Pike Place Market Express at Denny Regrade"
+            }
+          },
+          {
+            "name": {
+              "value": "Pike Place Market Express at First Hill"
+            }
+          },
+          {
+            "name": {
+              "value": "Pike Place Market Express at South Lake Union"
+            }
+          },
+          {
+            "name": {
+              "value": "Point Ruston Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Port Angeles Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Port Orchard Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Port Townsend Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Port Townsend Farmers Market - Wednesday"
+            }
+          },
+          {
+            "name": {
+              "value": "Port Townsend Winter Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Poulsbo Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Proctor Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Proctor Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Puyallup Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Queen Anne Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Redmond Saturday Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Renton Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Sammamish Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "San Juan Island Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "San Juan Island Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "San Juan Island Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Sedro-Woolley Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Sequim Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Shelton Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Shoreline Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Snohomish Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "South Tacoma Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "South Whidbey Tilth Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Steilacoom Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Suquamish Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Tenino Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "The Landing Farmers Market in Renton"
+            }
+          },
+          {
+            "name": {
+              "value": "The Olympia Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "The Olympia Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "The Olympia Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "The Puyallup Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Tumwater Town Center Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "University District Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Vashon Island Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Vashon Wednesday Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Wallingford Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Waterfront Farmers Market of Gig Harbor"
+            }
+          },
+          {
+            "name": {
+              "value": "West Seattle Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Woodinville Farmers Market"
+            }
+          },
+          {
+            "name": {
+              "value": "Yelm Farmers Market"
+            }
+          }
+        ]
+      },
+      {
+        "name": "LIST_OF_TIME_VALUES",
+        "values": [
+          {
+            "name": {
+              "value": "now"
+            }
+          },
+          {
+            "name": {
+              "value": "today"
+            }
+          },
+          {
+            "name": {
+              "value": "tomorrow"
+            }
+          },
+          {
+            "name": {
+              "value": "sunday"
+            }
+          },
+          {
+            "name": {
+              "value": "monday"
+            }
+          },
+          {
+            "name": {
+              "value": "tuesday"
+            }
+          },
+          {
+            "name": {
+              "value": "wednesday"
+            }
+          },
+          {
+            "name": {
+              "value": "thursday"
+            }
+          },
+          {
+            "name": {
+              "value": "friday"
+            }
+          },
+          {
+            "name": {
+              "value": "saturday"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
