@@ -1,110 +1,108 @@
-[
-  {"market": "Anacortes Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "05/5 to 10/27", "address": "611 R Avenue, Anacortes"}	,
-  {"market": "Anacortes Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "01/13 to 04/14", "address": "611 R Avenue, Anacortes"}	,
-  {"market": "Arlington Farmers Market", "days": "Saturdays", "time": "10:00 AM to 3:00 PM", "dates": "07/1 to 09/9", "address": "200 North Olympic Avenue, Arlington"}	,
-  {"market": "Auburn International Farmers Market", "days": "Sundays", "time": "10:00 AM to 3:00 PM", "dates": "06/3 to 09/30", "address": "1140 Auburn Way S, Auburn"}	,
-  {"market": "Bainbridge Island Farmers Market", "days": "Saturdays", "time": "9:00 AM to 1:00 PM", "dates": "03/31 to 12/15", "address": "280 Madison Avenue North, Bainbridge Island"}	,
-  {"market": "Ballard Farmers Market", "days": "Sundays", "time": "10:00 AM to 3:00 PM", "dates": "01/7 to 12/30", "address": "Ballard Ave NW & 22nd Ave NW, Seattle"}	,
-  {"market": "Bayview Farmers Market", "days": "Saturdays", "time": "10:00 AM to 2:00 PM", "dates": "04/29 to 10/28", "address": "Highway 525 and Bayview Road, Bayview"}	,
-  {"market": "Belfair Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "05/6 to 09/30", "address": "111 NE Old Belfair Highway, Belfair"}	,
-  {"market": "Bellevue Farmers Market", "days": "Thursdays", "time": "3:00 PM to 7:00 PM", "dates": "05/18 to 10/12", "address": "1717 Bellevue Way NE, Bellevue"}	,
-  {"market": "Bellingham Farmers Market - Downtown", "days": "Saturdays", "time": "10:00 AM to 3:00 PM", "dates": "04/1 to 12/23", "address": "1100 Railroad Avenue, Bellingham"}	,
-  {"market": "Bellingham Farmers Market - Downtown", "days": "Saturdays", "time": "10:00 AM to 3:00 PM", "dates": "01/16 to 03/19", "address": "1100 Railroad Avenue, Bellingham"}	,
-  {"market": "Bellingham Farmers Market - Fairhaven", "days": "Wednesdays", "time": "12:00 PM to 5:00 PM", "dates": "06/7 to 08/30", "address": "1207 10th Street, Bellingham"}	,
-  {"market": "Bothell Farmers Market", "days": "Fridays", "time": "12:00 PM to 6:00 PM", "dates": "06/1 to 09/28", "address": "23718 Bothell Everett Highway, Bothell"}	,
-  {"market": "Bremerton Farmers Market", "days": "Thursdays", "time": "4:00 PM to 7:00 PM", "dates": "05/3 to 10/11", "address": "1400 Park Avenue, Bremerton"}	,
-  {"market": "Broadway Farmers Market", "days": "Thursdays", "time": "10:00 AM to 3:00 PM", "dates": "05/3 to 10/25", "address": "Broadway between 9th and 11th, Tacoma"}	,
-  {"market": "Burien Farmers Market", "days": "Thursdays", "time": "11:00 AM to 6:00 PM", "dates": "05/3 to 10/25", "address": "SW 152nd St & 5th SW, Burien"}	,
-  {"market": "Capitol Hill Farmers Market", "days": "Sundays", "time": "11:00 AM to 3:00 PM", "dates": "01/1 to 12/31", "address": "Corner of Broadway & Pine at Seattle Central Community College, Seattle"}	,
-  {"market": "Carnation Farmers Market", "days": "Tuesdays", "time": "3:00 PM to 7:00 PM", "dates": "05/1 to 10/16", "address": "Stossel Avenue NE and West Bird Street, Carnation"}	,
-  {"market": "Chimacum Farmers Market", "days": "Sundays", "time": "10:00 AM to 2:00 PM", "dates": "06/3 to 10/28", "address": "9122 Rhody Drive, Chimacum"}	,
-  {"market": "Columbia City Farmers Market", "days": "Wednesdays", "time": "3:00 PM to 7:00 PM", "dates": "05/3 to 10/11", "address": "South Edmunds Street just off Rainier at 36th Street, Seattle"}	,
-  {"market": "Coupeville Farmers Market", "days": "Saturdays", "time": "10:00 AM to 2:00 PM", "dates": "04/1 to 10/14", "address": "Coupeville Community Green on NW Coveland, Coupeville"}	,
-  {"market": "Crossroads Farmers Market", "days": "Tuesdays", "time": "12:00 PM to 6:00 PM", "dates": "06/5 to 09/25", "address": "15600 NE 8th Street, Bellevue"}	,
-  {"market": "Des Moines Waterfront Farmers Market", "days": "Saturdays", "time": "10:00 AM to 2:00 PM", "dates": "06/3 to 09/30", "address": "22307 Dock Street, Des Moines"}	,
-  {"market": "Des Moines Waterfront Farmers Market", "days": "Wednesdays", "time": "4:00 PM to 8:00 PM", "dates": "07/5 to 08/30", "address": "22307 Dock Street, Des Moines"}	,
-  {"market": "Duvall Farmers Market", "days": "Thursdays", "time": "3:00 PM to 7:00 PM", "dates": "05/3 to 10/11", "address": "Brown Avenue between NE Richardson and NE Ring, Duvall"}	,
-  {"market": "Eastside Farmers Market", "days": "Tuesdays", "time": "3:00 PM to 7:00 PM", "dates": "06/5 to 08/28", "address": "3500 McKinley Ave E, Tacoma"}	,
-  {"market": "Edmonds Museum Garden Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "05/5 to 06/9", "address": "5th Avenue North and Bell Street, Edmonds"}	,
-  {"market": "Edmonds Museum Summer Market", "days": "Saturdays", "time": "9:00 AM to 3:00 PM", "dates": "06/16 to 10/6", "address": "5th Avenue North and Main Street, Edmonds"}	,
-  {"market": "Everett Farmers Market", "days": "Sundays", "time": "11:00 AM to 4:00 PM", "dates": "05/13 to 10/14", "address": "615 13th St, Everett"}	,
-  {"market": "Everett Station Farmers Market", "days": "Wednesdays", "time": "4:00 PM to 8:00 PM", "dates": "05/23 to 09/26", "address": "3201 Smith Ave, Everett"}	,
-  {"market": "Farm to Table Farmers Market", "days": "Wednesdays", "time": "3:00 PM to 8:00 PM", "dates": "06/22 to 09/7", "address": "14964 Fryelands Boulevard, Monroe"}	,
-  {"market": "Federal Way Farmers Market", "days": "Saturdays", "time": "9:00 AM to 3:00 PM", "dates": "05/12 to 10/27", "address": "1701 South 320th Street, Federal Way"}	,
-  {"market": "Ferndale Farmers Market", "days": "Fridays", "time": "1:00 PM to 6:00 PM", "dates": "06/10 to 10/28", "address": "2007 Cherry Street, Ferndale"}	,
-  {"market": "Fife Farmers Market", "days": "Fridays", "time": "3:00 PM to 7:00 PM", "dates": "06/16 to 08/25", "address": "2820 54th Avenue East, Fife"}	,
-  {"market": "Friday Farmers Market Everett Mall", "days": "Fridays", "time": "3:00 PM to 7:00 PM", "dates": "06/23 to 09/8", "address": "1402 SE Everett Mall Way, Everett"}	,
-  {"market": "Harstine Island Farmers Market", "days": "Saturdays", "time": "0.461805555555556", "dates": "05/27 to 10/14", "address": "3371 E Harstine Island Road N, Shelton"}	,
-  {"market": "Issaquah Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "05/5 to 09/29", "address": "1730 10th Avenue NW, Issaquah"}	,
-  {"market": "Juanita Friday Market", "days": "Fridays", "time": "3:00 PM to 7:00 PM", "dates": "06/1 to 09/28", "address": "9703 NE Juanita Drive, Kirkland"}	,
-  {"market": "Kent East Hill Farmers Market", "days": "Fridays", "time": "3:00 PM to 7:00 PM", "dates": "06/29 to 10/26", "address": "10600 SE 248th St, Kent"}	,
-  {"market": "Kent Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "06/3 to 09/23", "address": "2nd Avenue and Smith Street, Kent"}	,
-  {"market": "Kingston Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "05/2 to 10/10", "address": "Washington Boulevard NE and Central Avenue NE, Kingston"}	,
-  {"market": "Kirkland Wednesday Market", "days": "Wednesdays", "time": "2:00 PM to 7:00 PM", "dates": "06/6 to 09/26", "address": "440 Central Way, Kirkland"}	,
-  {"market": "Kittitas County Farmers Market", "days": "Saturdays", "time": "9:00 AM to 1:00 PM", "dates": "05/5 to 10/27", "address": "East 4th Avenue between Pearl & Ruby, Ellensburg"}	,
-  {"market": "Lake City Farmers Market", "days": "Thursdays", "time": "3:00 PM to 7:00 PM", "dates": "06/8 to 10/5", "address": "NE 125th Street and 28th Avenue NE, Seattle"}	,
-  {"market": "Lake Forest Park Farmers Market", "days": "Sundays", "time": "10:00 AM to 3:00 PM", "dates": "05/13 to 10/21", "address": "17171 Bothell Way NE, Lake Forest Park"}	,
-  {"market": "Lakewood Farmers Market", "days": "Tuesdays", "time": "10:00 AM to 3:00 PM", "dates": "06/5 to 09/11", "address": "6000 Main Street SW, Lakewood"}	,
-  {"market": "Langley Farmers Market", "days": "Fridays", "time": "1:00 PM to 5:00 PM", "dates": "05/4 to 09/28", "address": "Corner of 6th Street and Cascade Ave, Langley"}	,
-  {"market": "Leavenworth Community Farmers Market", "days": "Thursdays", "time": "4:00 PM to 8:00 PM", "dates": "06/7 to 10/18", "address": "696 US-2, Leavenworth"}	,
-  {"market": "Madrona Farmers Market", "days": "Fridays", "time": "3:00 PM to 7:00 PM", "dates": "05/18 to 10/12", "address": "1126 Martin Luther King Jr. Way, Seattle"}	,
-  {"market": "Magnolia Farmers Market", "days": "Saturdays", "time": "10:00 AM to 2:00 PM", "dates": "06/3 to 10/14", "address": "33rd Avenue West and West McGraw Street, Seattle"}	,
-  {"market": "Maple Valley Farmers Market", "days": "Saturdays", "time": "9:00 AMto 2:00 PM", "dates": "06/16to 09/29", "address": "25700 Maple Valley-Black Diamond Road SE, Maple Valley"}	,
-  {"market": "Marysville Farmers Market", "days": "Saturdays", "time": "10:00 AMto 2:00 PM", "dates": "06/24to 09/30", "address": "1035 State Ave, Marysville"}	,
-  {"market": "Mercer Island Farmers Market", "days": "Sundays", "time": "10:00 AMto 3:00 PM", "dates": "06/3 to 10/7", "address": "77th Ave SE at SE 32nd , Mercer Island"}	,
-  {"market": "Mill Creek Farmers Market", "days": "Fridays", "time": "12:00 PMto 5:00 PM", "dates": "05/25to 08/31", "address": "15720 Main St , Mill Creek"}	,
-  {"market": "Mount Vernon Farmers Market", "days": "Saturdays", "time": "9:00 AMto 2:00 PM", "dates": "05/19to 10/13", "address": "501 Main St, Mount Vernon"}	,
-  {"market": "Mukilteo Farmers Market", "days": "Wednesdays", "time": "3:00 PM to 7:00 PM", "dates": "06/7 to 09/27", "address": "609 Front Street, Mukilteo"}	,
-  {"market": "North Bend Farmers Market", "days": "Thursdays", "time": "4:00 PM to 8:00 PM", "dates": "06/7 to 09/6", "address": "400 SE Orchard Drive, North Bend"}	,
-  {"market": "Oak Harbor Farmers' Market", "days": "Thursdays", "time": "4:00 PM to 7:00 PM", "dates": "05/18to 09/28", "address": "Near 32630 State Route 20, Oak Harbor"}	,
-  {"market": "Orting Valley Farmers Market", "days": "Fridays", "time": "3:00 PM to 7:00 PM", "dates": "06/8 to 09/7", "address": "Corner Hwy 162 (Washington) and Calistoga, Orting"}	,
-  {"market": "Park Ridge Community Market", "days": "Wednesdays", "time": "4:00 PM to 8:00 PM", "dates": "06/6 to 09/26", "address": "3805 Maltby Road, Bothell"}	,
-  {"market": "Phinney Farmers Market", "days": "Fridays", "time": "3:30 PM to 7:30 PM", "dates": "06/2 to 10/6", "address": "Phinney Avenue North and North 67th Street, Seattle"}	,
-  {"market": "Pike Place Market", "days": "Sundays, Mondays, Tuesdays, Wednesdays, Thursdays, Fridays, Saturdays", "time": "9:00 AMto 5:00 PM", "dates": "01/1 to 12/31", "address": "Pike Place between Pine Street and Virginia Street, Seattle"}	,
-  {"market": "Pike Place Market Evening Market", "days": "Wednesdays", "time": "5:00 PM to 8:00 PM", "dates": "05/31to 09/27", "address": "Pike Place at Pine Street, Seattle"}	,
-  {"market": "Pike Place Market Express at City Hall Plaza", "days": "Tuesdays", "time": "10:00 AMto 2:00 PM", "dates": "05/30to 10/10", "address": "600 4th Avenue, Seattle"}	,
-  {"market": "Pike Place Market Express at Denny Regrade", "days": "Tuesdays", "time": "10:00 AMto 2:00 PM", "dates": "05/30to 10/10", "address": "7th Ave & Lenora St, Seattle"}	,
-  {"market": "Pike Place Market Express at First Hill", "days": "Fridays", "time": "10:00 AMto 2:00 PM", "dates": "06/2 to 10/13", "address": "9th Avenue between University and Seneca Streets, Seattle"}	,
-  {"market": "Pike Place Market Express at South Lake Union", "days": "Thursdays", "time": "10:00 AMto 2:00 PM", "dates": "06/1 to 10/12", "address": "410 Terry Avenue North, Seattle"}	,
-  {"market": "Point Ruston Farmers Market", "days": "Sundays", "time": "10:00 PMto 3:00 PM", "dates": "06/3 to 09/30", "address": "5005 Ruston Way , Tacoma"}	,
-  {"market": "Port Angeles Farmers Market", "days": "Saturdays", "time": "10:00 AMto 2:00 PM", "dates": "01/1 to 12/31", "address": "125 East Front Street, Port Angeles"}	,
-  {"market": "Port Orchard Farmers Market", "days": "Saturdays", "time": "9:00 AMto 3:00 PM", "dates": "04/15to 10/14", "address": "Bay Street and Harrison, Port Orchard"}	,
-  {"market": "Port Townsend Farmers Market", "days": "Saturdays", "time": "9:00 AMto 2:00 PM", "dates": "04/7 to 10/27", "address": "650 Tyler Street, Port Townsend"}	,
-  {"market": "Port Townsend Farmers Market - Wednesday", "days": "Wednesdays", "time": "2:00 PM to 6:00 PM", "dates": "06/6 to 09/26", "address": "440 12th St, Port Townsend"}	,
-  {"market": "Port Townsend Winter Farmers Market", "days": "Saturdays", "time": "10:00 AMto 2:00 PM", "dates": "11/4 to 12/16", "address": "650 Tyler Street, Port Townsend"}	,
-  {"market": "Poulsbo Farmers Market", "days": "Saturdays", "time": "9:00 AMto 2:00 PM", "dates": "04/1 to 12/16", "address": "18901 8th Avenue NE, Poulsbo"}	,
-  {"market": "Proctor Farmers Market", "days": "Saturdays", "time": "9:00 AMto 2:00 PM", "dates": "03/24to 12/15", "address": "Corner of North Proctor & North 27th Streets, Tacoma"}	,
-  {"market": "Proctor Farmers Market", "days": "2nd Saturdays", "time": "10:00 AM to 1:00 PM", "dates": "01/13 to 03/10", "address": "Corner of North Proctor & N 27th Street, Tacoma"}	,
-  {"market": "Puyallup Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "04/21 to 10/13", "address": "330 South Meridian, Puyallup"}	,
-  {"market": "Queen Anne Farmers Market", "days": "Thursdays", "time": "3:00 PM to 7:30 PM", "dates": "06/7 to 10/11", "address": "West Crockett Street and Queen Anne Avenue North, Seattle"}	,
-  {"market": "Redmond Saturday Market", "days": "Saturdays", "time": "9:00 AM to 3:00 PM", "dates": "05/5 to 10/27", "address": "7730 Leary Way NE, Redmond"}	,
-  {"market": "Renton Farmers Market", "days": "Tuesdays", "time": "3:00 PM to 7:00 PM", "dates": "06/5 to 09/25", "address": "233 Burnett Avenue South, Renton"}	,
-  {"market": "Sammamish Farmers Market", "days": "Wednesdays", "time": "4:00 PM to 8:00 PM", "dates": "05/10 to 09/20", "address": "801 228th Avenue SE, Sammamish"}	,
-  {"market": "San Juan Island Farmers Market", "days": "Saturdays", "time": "10:00 AM to 1:00 PM", "dates": "04/1 to 10/28", "address": "150 Nichols Street , Friday Harbor"}	,
-  {"market": "San Juan Island Farmers Market", "days": "Saturdays", "time": "10:00 AM to 1:00 PM", "dates": "11/4 to 12/16", "address": "150 Nichols Street, Friday Harbor"}	,
-  {"market": "San Juan Island Farmers Market", "days": "Saturdays", "time": "10:00 AM to 1:00 PM", "dates": "01/7 to 03/4", "address": "150 Nichols Street, Friday Harbor"}	,
-  {"market": "Sedro-Woolley Farmers Market", "days": "Wednesdays", "time": "3:00 PM to 7:00 PM", "dates": "05/23 to 10/17", "address": "Ferry Street and Metcalf Street, Sedro-Woolley"}	,
-  {"market": "Sequim Farmers Market", "days": "Saturdays", "time": "9:00 AM to 3:00 PM", "dates": "05/5 to 10/27", "address": "152 West Cedar Street, Sequim"}	,
-  {"market": "Shelton Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "05/6 to 09/30", "address": "Franklin and 3rd Street, Shelton"}	,
-  {"market": "Shoreline Farmers Market", "days": "Saturdays", "time": "10:00 AM to 3:00 PM", "dates": "06/9 to 10/6", "address": "15300 Westminster Way North, Shoreline"}	,
-  {"market": "Snohomish Farmers Market", "days": "Thursdays", "time": "3:00 PM to 7:00 PM", "dates": "05/3 to 09/27", "address": "Pearl Street and Cedar Ave, Snohomish"}	,
-  {"market": "South Tacoma Farmers Market", "days": "Sundays", "time": "11:00 AM to 3:00 PM", "dates": "05/21 to 09/10", "address": "3873 South 66th Street, Tacoma"}	,
-  {"market": "South Whidbey Tilth Farmers Market", "days": "Sundays", "time": "11:00 AM to 2:00 PM", "dates": "04/29 to 10/7", "address": "2812 Thompson Road, Langley"}	,
-  {"market": "Steilacoom Farmers Market", "days": "Wednesdays", "time": "3:00 PM to 7:00 PM", "dates": "06/14 to 08/30", "address": "Lafayette & Wilkes Street, Steilacoom"}	,
-  {"market": "Suquamish Farmers Market", "days": "Wednesdays", "time": "3:00 PM to 7:00 PM", "dates": "05/3 to 09/27", "address": "18481 Suquamish Way, Suquamish"}	,
-  {"market": "Tenino Farmers Market", "days": "Saturdays", "time": "10:00 AM to 3:00 PM", "dates": "05/5 to 09/29", "address": "213 Sussex Ave, Tenino"}	,
-  {"market": "The Landing Farmers Market in Renton", "days": "Thursdays", "time": "3:00 PM to 7:00 PM", "dates": "06/8 to 09/14", "address": "915 North Landing Way, Renton"}	,
-  {"market": "The Olympia Farmers Market", "days": "Sundays, Thursdays", "time": "10:00 AM to 3:00 PM", "dates": "04/6 to 10/29", "address": "700 North Capitol Way, Olympia"}	,
-  {"market": "The Olympia Farmers Market", "days": "Saturdays", "time": "10:00 AM to 3:00 PM", "dates": "01/7 to 03/25", "address": "700 North Capitol Way, Olympia"}	,
-  {"market": "The Olympia Farmers Market", "days": "Sundays, Saturdays", "time": "10:00 AM to 3:00 PM", "dates": "11/4 to 12/24", "address": "700 Capitol Way North, Olympia"}	,
-  {"market": "The Puyallup Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "04/15 to 10/14", "address": "330 South Meridian, Puyallup"}	,
-  {"market": "Tumwater Town Center Farmers Market", "days": "Wednesdays", "time": "11:00 AM to 2:00 PM", "dates": "05/3 to 09/27", "address": "Capitol Boulevard SW and Israel Road SW, Tumwater"}	,
-  {"market": "University District Farmers Market", "days": "Saturdays", "time": "9:00 AM to 2:00 PM", "dates": "01/2 to 12/30", "address": "University Way NE between 50th and 52nd, Seattle"}	,
-  {"market": "Vashon Island Farmers Market", "days": "Saturdays", "time": "10:00 AM to 2:00 PM", "dates": "04/7 to 12/15", "address": "17519 Vashon Highway SW, Vashon"}	,
-  {"market": "Vashon Wednesday Farmers Market", "days": "Wednesdays", "time": "3:00 PM to 6:00 PM", "dates": "06/21 to 09/6", "address": "17519 Vashon Highway SW, Vashon"}	,
-  {"market": "Wallingford Farmers Market", "days": "Wednesdays", "time": "3:00 PM to 7:00 PM", "dates": "05/16 to 09/26", "address": "4850 Meridian Avenue North, Seattle"}	,
-  {"market": "Waterfront Farmers Market of Gig Harbor", "days": "Thursdays", "time": "1:00 PM to 7:00 PM", "dates": "06/7 to 08/30", "address": "3207 Harborview Drive, Gig Harbor"}	,
-  {"market": "West Seattle Farmers Market", "days": "Sundays", "time": "10:00 AM to 2:00 PM", "dates": "01/1 to 12/31", "address": "California Avenue SW and SW Alaska Street, Seattle"}	,
-  {"market": "Woodinville Farmers Market", "days": "Saturdays", "time": "9:00 AM to 3:00 PM", "dates": "05/5 to 09/29", "address": "13680 NE 175th Street, Woodinville"}	,
-  {"market": "Yelm Farmers Market", "days": "Sundays", "time": "10:00 AM to 3:00 PM", "dates": "05/28 to 10/29", "address": "17835 State Route 507, Yelm"}
-]
+{"startDate": "05/5", "endDate": "10/27", "days": ["Saturday"], "startTime": "9:00 AM", "address": "611 R Avenue, Anacortes", "endTime": "2:00 PM", "market": "Anacortes Farmers Market"}
+{"startDate": "01/13", "endDate": "04/14", "days": ["Saturday"], "startTime": "9:00 AM", "address": "611 R Avenue, Anacortes", "endTime": "2:00 PM", "market": "Anacortes Farmers Market"}
+{"startDate": "07/1", "endDate": "09/9", "days": ["Saturday"], "startTime": "10:00 AM", "address": "200 North Olympic Avenue, Arlington", "endTime": "3:00 PM", "market": "Arlington Farmers Market"}
+{"startDate": "06/3", "endDate": "09/30", "days": ["Sunday"], "startTime": "10:00 AM", "address": "1140 Auburn Way S, Auburn", "endTime": "3:00 PM", "market": "Auburn International Farmers Market"}
+{"startDate": "03/31", "endDate": "12/15", "days": ["Saturday"], "startTime": "9:00 AM", "address": "280 Madison Avenue North, Bainbridge Island", "endTime": "1:00 PM", "market": "Bainbridge Island Farmers Market"}
+{"startDate": "01/7", "endDate": "12/30", "days": ["Sunday"], "startTime": "10:00 AM", "address": "Ballard Ave NW & 22nd Ave NW, Seattle", "endTime": "3:00 PM", "market": "Ballard Farmers Market"}
+{"startDate": "04/29", "endDate": "10/28", "days": ["Saturday"], "startTime": "10:00 AM", "address": "Highway 525 and Bayview Road, Bayview", "endTime": "2:00 PM", "market": "Bayview Farmers Market"}
+{"startDate": "05/6", "endDate": "09/30", "days": ["Saturday"], "startTime": "9:00 AM", "address": "111 NE Old Belfair Highway, Belfair", "endTime": "2:00 PM", "market": "Belfair Farmers Market"}
+{"startDate": "05/18", "endDate": "10/12", "days": ["Thursday"], "startTime": "3:00 PM", "address": "1717 Bellevue Way NE, Bellevue", "endTime": "7:00 PM", "market": "Bellevue Farmers Market"}
+{"startDate": "04/1", "endDate": "12/23", "days": ["Saturday"], "startTime": "10:00 AM", "address": "1100 Railroad Avenue, Bellingham", "endTime": "3:00 PM", "market": "Bellingham Farmers Market - Downtown"}
+{"startDate": "01/16", "endDate": "03/19", "days": ["Saturday"], "startTime": "10:00 AM", "address": "1100 Railroad Avenue, Bellingham", "endTime": "3:00 PM", "market": "Bellingham Farmers Market - Downtown"}
+{"startDate": "06/7", "endDate": "08/30", "days": ["Wednesday"], "startTime": "12:00 PM", "address": "1207 10th Street, Bellingham", "endTime": "5:00 PM", "market": "Bellingham Farmers Market - Fairhaven"}
+{"startDate": "06/1", "endDate": "09/28", "days": ["Friday"], "startTime": "12:00 PM", "address": "23718 Bothell Everett Highway, Bothell", "endTime": "6:00 PM", "market": "Bothell Farmers Market"}
+{"startDate": "05/3", "endDate": "10/11", "days": ["Thursday"], "startTime": "4:00 PM", "address": "1400 Park Avenue, Bremerton", "endTime": "7:00 PM", "market": "Bremerton Farmers Market"}
+{"startDate": "05/3", "endDate": "10/25", "days": ["Thursday"], "startTime": "10:00 AM", "address": "Broadway between 9th and 11th, Tacoma", "endTime": "3:00 PM", "market": "Broadway Farmers Market"}
+{"startDate": "05/3", "endDate": "10/25", "days": ["Thursday"], "startTime": "11:00 AM", "address": "SW 152nd St & 5th SW, Burien", "endTime": "6:00 PM", "market": "Burien Farmers Market"}
+{"startDate": "01/1", "endDate": "12/31", "days": ["Sunday"], "startTime": "11:00 AM", "address": "Corner of Broadway & Pine at Seattle Central Community College, Seattle", "endTime": "3:00 PM", "market": "Capitol Hill Farmers Market"}
+{"startDate": "05/1", "endDate": "10/16", "days": ["Tuesday"], "startTime": "3:00 PM", "address": "Stossel Avenue NE and West Bird Street, Carnation", "endTime": "7:00 PM", "market": "Carnation Farmers Market"}
+{"startDate": "06/3", "endDate": "10/28", "days": ["Sunday"], "startTime": "10:00 AM", "address": "9122 Rhody Drive, Chimacum", "endTime": "2:00 PM", "market": "Chimacum Farmers Market"}
+{"startDate": "05/3", "endDate": "10/11", "days": ["Wednesday"], "startTime": "3:00 PM", "address": "South Edmunds Street just off Rainier at 36th Street, Seattle", "endTime": "7:00 PM", "market": "Columbia City Farmers Market"}
+{"startDate": "04/1", "endDate": "10/14", "days": ["Saturday"], "startTime": "10:00 AM", "address": "Coupeville Community Green on NW Coveland, Coupeville", "endTime": "2:00 PM", "market": "Coupeville Farmers Market"}
+{"startDate": "06/5", "endDate": "09/25", "days": ["Tuesday"], "startTime": "12:00 PM", "address": "15600 NE 8th Street, Bellevue", "endTime": "6:00 PM", "market": "Crossroads Farmers Market"}
+{"startDate": "06/3", "endDate": "09/30", "days": ["Saturday"], "startTime": "10:00 AM", "address": "22307 Dock Street, Des Moines", "endTime": "2:00 PM", "market": "Des Moines Waterfront Farmers Market"}
+{"startDate": "07/5", "endDate": "08/30", "days": ["Wednesday"], "startTime": "4:00 PM", "address": "22307 Dock Street, Des Moines", "endTime": "8:00 PM", "market": "Des Moines Waterfront Farmers Market"}
+{"startDate": "05/3", "endDate": "10/11", "days": ["Thursday"], "startTime": "3:00 PM", "address": "Brown Avenue between NE Richardson and NE Ring, Duvall", "endTime": "7:00 PM", "market": "Duvall Farmers Market"}
+{"startDate": "06/5", "endDate": "08/28", "days": ["Tuesday"], "startTime": "3:00 PM", "address": "3500 McKinley Ave E, Tacoma", "endTime": "7:00 PM", "market": "Eastside Farmers Market"}
+{"startDate": "05/5", "endDate": "06/9", "days": ["Saturday"], "startTime": "9:00 AM", "address": "5th Avenue North and Bell Street, Edmonds", "endTime": "2:00 PM", "market": "Edmonds Museum Garden Market"}
+{"startDate": "06/16", "endDate": "10/6", "days": ["Saturday"], "startTime": "9:00 AM", "address": "5th Avenue North and Main Street, Edmonds", "endTime": "3:00 PM", "market": "Edmonds Museum Summer Market"}
+{"startDate": "05/13", "endDate": "10/14", "days": ["Sunday"], "startTime": "11:00 AM", "address": "615 13th St, Everett", "endTime": "4:00 PM", "market": "Everett Farmers Market"}
+{"startDate": "05/23", "endDate": "09/26", "days": ["Wednesday"], "startTime": "4:00 PM", "address": "3201 Smith Ave, Everett", "endTime": "8:00 PM", "market": "Everett Station Farmers Market"}
+{"startDate": "06/22", "endDate": "09/7", "days": ["Wednesday"], "startTime": "3:00 PM", "address": "14964 Fryelands Boulevard, Monroe", "endTime": "8:00 PM", "market": "Farm to Table Farmers Market"}
+{"startDate": "05/12", "endDate": "10/27", "days": ["Saturday"], "startTime": "9:00 AM", "address": "1701 South 320th Street, Federal Way", "endTime": "3:00 PM", "market": "Federal Way Farmers Market"}
+{"startDate": "06/10", "endDate": "10/28", "days": ["Friday"], "startTime": "1:00 PM", "address": "2007 Cherry Street, Ferndale", "endTime": "6:00 PM", "market": "Ferndale Farmers Market"}
+{"startDate": "06/16", "endDate": "08/25", "days": ["Friday"], "startTime": "3:00 PM", "address": "2820 54th Avenue East, Fife", "endTime": "7:00 PM", "market": "Fife Farmers Market"}
+{"startDate": "06/23", "endDate": "09/8", "days": ["Friday"], "startTime": "3:00 PM", "address": "1402 SE Everett Mall Way, Everett", "endTime": "7:00 PM", "market": "Friday Farmers Market Everett Mall"}
+{"startDate": "05/27", "endDate": "10/14", "days": ["Saturday"], "startTime": null, "address": "3371 E Harstine Island Road N, Shelton", "endTime": null, "market": "Harstine Island Farmers Market"}
+{"startDate": "05/5", "endDate": "09/29", "days": ["Saturday"], "startTime": "9:00 AM", "address": "1730 10th Avenue NW, Issaquah", "endTime": "2:00 PM", "market": "Issaquah Farmers Market"}
+{"startDate": "06/1", "endDate": "09/28", "days": ["Friday"], "startTime": "3:00 PM", "address": "9703 NE Juanita Drive, Kirkland", "endTime": "7:00 PM", "market": "Juanita Friday Market"}
+{"startDate": "06/29", "endDate": "10/26", "days": ["Friday"], "startTime": "3:00 PM", "address": "10600 SE 248th St, Kent", "endTime": "7:00 PM", "market": "Kent East Hill Farmers Market"}
+{"startDate": "06/3", "endDate": "09/23", "days": ["Saturday"], "startTime": "9:00 AM", "address": "2nd Avenue and Smith Street, Kent", "endTime": "2:00 PM", "market": "Kent Farmers Market"}
+{"startDate": "05/2", "endDate": "10/10", "days": ["Saturday"], "startTime": "9:00 AM", "address": "Washington Boulevard NE and Central Avenue NE, Kingston", "endTime": "2:00 PM", "market": "Kingston Farmers Market"}
+{"startDate": "06/6", "endDate": "09/26", "days": ["Wednesday"], "startTime": "2:00 PM", "address": "440 Central Way, Kirkland", "endTime": "7:00 PM", "market": "Kirkland Wednesday Market"}
+{"startDate": "05/5", "endDate": "10/27", "days": ["Saturday"], "startTime": "9:00 AM", "address": "East 4th Avenue between Pearl & Ruby, Ellensburg", "endTime": "1:00 PM", "market": "Kittitas County Farmers Market"}
+{"startDate": "06/8", "endDate": "10/5", "days": ["Thursday"], "startTime": "3:00 PM", "address": "NE 125th Street and 28th Avenue NE, Seattle", "endTime": "7:00 PM", "market": "Lake City Farmers Market"}
+{"startDate": "05/13", "endDate": "10/21", "days": ["Sunday"], "startTime": "10:00 AM", "address": "17171 Bothell Way NE, Lake Forest Park", "endTime": "3:00 PM", "market": "Lake Forest Park Farmers Market"}
+{"startDate": "06/5", "endDate": "09/11", "days": ["Tuesday"], "startTime": "10:00 AM", "address": "6000 Main Street SW, Lakewood", "endTime": "3:00 PM", "market": "Lakewood Farmers Market"}
+{"startDate": "05/4", "endDate": "09/28", "days": ["Friday"], "startTime": "1:00 PM", "address": "Corner of 6th Street and Cascade Ave, Langley", "endTime": "5:00 PM", "market": "Langley Farmers Market"}
+{"startDate": "06/7", "endDate": "10/18", "days": ["Thursday"], "startTime": "4:00 PM", "address": "696 US-2, Leavenworth", "endTime": "8:00 PM", "market": "Leavenworth Community Farmers Market"}
+{"startDate": "05/18", "endDate": "10/12", "days": ["Friday"], "startTime": "3:00 PM", "address": "1126 Martin Luther King Jr. Way, Seattle", "endTime": "7:00 PM", "market": "Madrona Farmers Market"}
+{"startDate": "06/3", "endDate": "10/14", "days": ["Saturday"], "startTime": "10:00 AM", "address": "33rd Avenue West and West McGraw Street, Seattle", "endTime": "2:00 PM", "market": "Magnolia Farmers Market"}
+{"startDate": "06/16", "endDate": "09/29", "days": ["Saturday"], "startTime": "9:00 AM", "address": "25700 Maple Valley-Black Diamond Road SE, Maple Valley", "endTime": "2:00 PM", "market": "Maple Valley Farmers Market"}
+{"startDate": "06/24", "endDate": "09/30", "days": ["Saturday"], "startTime": "10:00 AM", "address": "1035 State Ave, Marysville", "endTime": "2:00 PM", "market": "Marysville Farmers Market"}
+{"startDate": "06/3", "endDate": "10/7", "days": ["Sunday"], "startTime": "10:00 AM", "address": "77th Ave SE at SE 32nd , Mercer Island", "endTime": "3:00 PM", "market": "Mercer Island Farmers Market"}
+{"startDate": "05/25", "endDate": "08/31", "days": ["Friday"], "startTime": "12:00 PM", "address": "15720 Main St , Mill Creek", "endTime": "5:00 PM", "market": "Mill Creek Farmers Market"}
+{"startDate": "05/19", "endDate": "10/13", "days": ["Saturday"], "startTime": "9:00 AM", "address": "501 Main St, Mount Vernon", "endTime": "2:00 PM", "market": "Mount Vernon Farmers Market"}
+{"startDate": "06/7", "endDate": "09/27", "days": ["Wednesday"], "startTime": "3:00 PM", "address": "609 Front Street, Mukilteo", "endTime": "7:00 PM", "market": "Mukilteo Farmers Market"}
+{"startDate": "06/7", "endDate": "09/6", "days": ["Thursday"], "startTime": "4:00 PM", "address": "400 SE Orchard Drive, North Bend", "endTime": "8:00 PM", "market": "North Bend Farmers Market"}
+{"startDate": "05/18", "endDate": "09/28", "days": ["Thursday"], "startTime": "4:00 PM", "address": "Near 32630 State Route 20, Oak Harbor", "endTime": "7:00 PM", "market": "Oak Harbor Farmers' Market"}
+{"startDate": "06/8", "endDate": "09/7", "days": ["Friday"], "startTime": "3:00 PM", "address": "Corner Hwy 162 (Washington) and Calistoga, Orting", "endTime": "7:00 PM", "market": "Orting Valley Farmers Market"}
+{"startDate": "06/6", "endDate": "09/26", "days": ["Wednesday"], "startTime": "4:00 PM", "address": "3805 Maltby Road, Bothell", "endTime": "8:00 PM", "market": "Park Ridge Community Market"}
+{"startDate": "06/2", "endDate": "10/6", "days": ["Friday"], "startTime": "3:30 PM", "address": "Phinney Avenue North and North 67th Street, Seattle", "endTime": "7:30 PM", "market": "Phinney Farmers Market"}
+{"startDate": "01/1", "endDate": "12/31", "days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "startTime": "9:00 AM", "address": "Pike Place between Pine Street and Virginia Street, Seattle", "endTime": "5:00 PM", "market": "Pike Place Market"}
+{"startDate": "05/31", "endDate": "09/27", "days": ["Wednesday"], "startTime": "5:00 PM", "address": "Pike Place at Pine Street, Seattle", "endTime": "8:00 PM", "market": "Pike Place Market Evening Market"}
+{"startDate": "05/30", "endDate": "10/10", "days": ["Tuesday"], "startTime": "10:00 AM", "address": "600 4th Avenue, Seattle", "endTime": "2:00 PM", "market": "Pike Place Market Express at City Hall Plaza"}
+{"startDate": "05/30", "endDate": "10/10", "days": ["Tuesday"], "startTime": "10:00 AM", "address": "7th Ave & Lenora St, Seattle", "endTime": "2:00 PM", "market": "Pike Place Market Express at Denny Regrade"}
+{"startDate": "06/2", "endDate": "10/13", "days": ["Friday"], "startTime": "10:00 AM", "address": "9th Avenue between University and Seneca Streets, Seattle", "endTime": "2:00 PM", "market": "Pike Place Market Express at First Hill"}
+{"startDate": "06/1", "endDate": "10/12", "days": ["Thursday"], "startTime": "10:00 AM", "address": "410 Terry Avenue North, Seattle", "endTime": "2:00 PM", "market": "Pike Place Market Express at South Lake Union"}
+{"startDate": "06/3", "endDate": "09/30", "days": ["Sunday"], "startTime": "10:00 PM", "address": "5005 Ruston Way , Tacoma", "endTime": "3:00 PM", "market": "Point Ruston Farmers Market"}
+{"startDate": "01/1", "endDate": "12/31", "days": ["Saturday"], "startTime": "10:00 AM", "address": "125 East Front Street, Port Angeles", "endTime": "2:00 PM", "market": "Port Angeles Farmers Market"}
+{"startDate": "04/15", "endDate": "10/14", "days": ["Saturday"], "startTime": "9:00 AM", "address": "Bay Street and Harrison, Port Orchard", "endTime": "3:00 PM", "market": "Port Orchard Farmers Market"}
+{"startDate": "04/7", "endDate": "10/27", "days": ["Saturday"], "startTime": "9:00 AM", "address": "650 Tyler Street, Port Townsend", "endTime": "2:00 PM", "market": "Port Townsend Farmers Market"}
+{"startDate": "06/6", "endDate": "09/26", "days": ["Wednesday"], "startTime": "2:00 PM", "address": "440 12th St, Port Townsend", "endTime": "6:00 PM", "market": "Port Townsend Farmers Market - Wednesday"}
+{"startDate": "11/4", "endDate": "12/16", "days": ["Saturday"], "startTime": "10:00 AM", "address": "650 Tyler Street, Port Townsend", "endTime": "2:00 PM", "market": "Port Townsend Winter Farmers Market"}
+{"startDate": "04/1", "endDate": "12/16", "days": ["Saturday"], "startTime": "9:00 AM", "address": "18901 8th Avenue NE, Poulsbo", "endTime": "2:00 PM", "market": "Poulsbo Farmers Market"}
+{"startDate": "03/24", "endDate": "12/15", "days": ["Saturday"], "startTime": "9:00 AM", "address": "Corner of North Proctor & North 27th Streets, Tacoma", "endTime": "2:00 PM", "market": "Proctor Farmers Market"}
+{"startDate": "01/13", "endDate": "03/10", "days": ["2nd Saturday"], "startTime": "10:00 AM", "address": "Corner of North Proctor & N 27th Street, Tacoma", "endTime": "1:00 PM", "market": "Proctor Farmers Market"}
+{"startDate": "04/21", "endDate": "10/13", "days": ["Saturday"], "startTime": "9:00 AM", "address": "330 South Meridian, Puyallup", "endTime": "2:00 PM", "market": "Puyallup Farmers Market"}
+{"startDate": "06/7", "endDate": "10/11", "days": ["Thursday"], "startTime": "3:00 PM", "address": "West Crockett Street and Queen Anne Avenue North, Seattle", "endTime": "7:30 PM", "market": "Queen Anne Farmers Market"}
+{"startDate": "05/5", "endDate": "10/27", "days": ["Saturday"], "startTime": "9:00 AM", "address": "7730 Leary Way NE, Redmond", "endTime": "3:00 PM", "market": "Redmond Saturday Market"}
+{"startDate": "06/5", "endDate": "09/25", "days": ["Tuesday"], "startTime": "3:00 PM", "address": "233 Burnett Avenue South, Renton", "endTime": "7:00 PM", "market": "Renton Farmers Market"}
+{"startDate": "05/10", "endDate": "09/20", "days": ["Wednesday"], "startTime": "4:00 PM", "address": "801 228th Avenue SE, Sammamish", "endTime": "8:00 PM", "market": "Sammamish Farmers Market"}
+{"startDate": "04/1", "endDate": "10/28", "days": ["Saturday"], "startTime": "10:00 AM", "address": "150 Nichols Street , Friday Harbor", "endTime": "1:00 PM", "market": "San Juan Island Farmers Market"}
+{"startDate": "11/4", "endDate": "12/16", "days": ["Saturday"], "startTime": "10:00 AM", "address": "150 Nichols Street, Friday Harbor", "endTime": "1:00 PM", "market": "San Juan Island Farmers Market"}
+{"startDate": "01/7", "endDate": "03/4", "days": ["Saturday"], "startTime": "10:00 AM", "address": "150 Nichols Street, Friday Harbor", "endTime": "1:00 PM", "market": "San Juan Island Farmers Market"}
+{"startDate": "05/23", "endDate": "10/17", "days": ["Wednesday"], "startTime": "3:00 PM", "address": "Ferry Street and Metcalf Street, Sedro-Woolley", "endTime": "7:00 PM", "market": "Sedro-Woolley Farmers Market"}
+{"startDate": "05/5", "endDate": "10/27", "days": ["Saturday"], "startTime": "9:00 AM", "address": "152 West Cedar Street, Sequim", "endTime": "3:00 PM", "market": "Sequim Farmers Market"}
+{"startDate": "05/6", "endDate": "09/30", "days": ["Saturday"], "startTime": "9:00 AM", "address": "Franklin and 3rd Street, Shelton", "endTime": "2:00 PM", "market": "Shelton Farmers Market"}
+{"startDate": "06/9", "endDate": "10/6", "days": ["Saturday"], "startTime": "10:00 AM", "address": "15300 Westminster Way North, Shoreline", "endTime": "3:00 PM", "market": "Shoreline Farmers Market"}
+{"startDate": "05/3", "endDate": "09/27", "days": ["Thursday"], "startTime": "3:00 PM", "address": "Pearl Street and Cedar Ave, Snohomish", "endTime": "7:00 PM", "market": "Snohomish Farmers Market"}
+{"startDate": "05/21", "endDate": "09/10", "days": ["Sunday"], "startTime": "11:00 AM", "address": "3873 South 66th Street, Tacoma", "endTime": "3:00 PM", "market": "South Tacoma Farmers Market"}
+{"startDate": "04/29", "endDate": "10/7", "days": ["Sunday"], "startTime": "11:00 AM", "address": "2812 Thompson Road, Langley", "endTime": "2:00 PM", "market": "South Whidbey Tilth Farmers Market"}
+{"startDate": "06/14", "endDate": "08/30", "days": ["Wednesday"], "startTime": "3:00 PM", "address": "Lafayette & Wilkes Street, Steilacoom", "endTime": "7:00 PM", "market": "Steilacoom Farmers Market"}
+{"startDate": "05/3", "endDate": "09/27", "days": ["Wednesday"], "startTime": "3:00 PM", "address": "18481 Suquamish Way, Suquamish", "endTime": "7:00 PM", "market": "Suquamish Farmers Market"}
+{"startDate": "05/5", "endDate": "09/29", "days": ["Saturday"], "startTime": "10:00 AM", "address": "213 Sussex Ave, Tenino", "endTime": "3:00 PM", "market": "Tenino Farmers Market"}
+{"startDate": "06/8", "endDate": "09/14", "days": ["Thursday"], "startTime": "3:00 PM", "address": "915 North Landing Way, Renton", "endTime": "7:00 PM", "market": "The Landing Farmers Market in Renton"}
+{"startDate": "04/6", "endDate": "10/29", "days": ["Sunday", "Thursday"], "startTime": "10:00 AM", "address": "700 North Capitol Way, Olympia", "endTime": "3:00 PM", "market": "The Olympia Farmers Market"}
+{"startDate": "01/7", "endDate": "03/25", "days": ["Saturday"], "startTime": "10:00 AM", "address": "700 North Capitol Way, Olympia", "endTime": "3:00 PM", "market": "The Olympia Farmers Market"}
+{"startDate": "11/4", "endDate": "12/24", "days": ["Sunday", "Saturday"], "startTime": "10:00 AM", "address": "700 Capitol Way North, Olympia", "endTime": "3:00 PM", "market": "The Olympia Farmers Market"}
+{"startDate": "04/15", "endDate": "10/14", "days": ["Saturday"], "startTime": "9:00 AM", "address": "330 South Meridian, Puyallup", "endTime": "2:00 PM", "market": "The Puyallup Farmers Market"}
+{"startDate": "05/3", "endDate": "09/27", "days": ["Wednesday"], "startTime": "11:00 AM", "address": "Capitol Boulevard SW and Israel Road SW, Tumwater", "endTime": "2:00 PM", "market": "Tumwater Town Center Farmers Market"}
+{"startDate": "01/2", "endDate": "12/30", "days": ["Saturday"], "startTime": "9:00 AM", "address": "University Way NE between 50th and 52nd, Seattle", "endTime": "2:00 PM", "market": "University District Farmers Market"}
+{"startDate": "04/7", "endDate": "12/15", "days": ["Saturday"], "startTime": "10:00 AM", "address": "17519 Vashon Highway SW, Vashon", "endTime": "2:00 PM", "market": "Vashon Island Farmers Market"}
+{"startDate": "06/21", "endDate": "09/6", "days": ["Wednesday"], "startTime": "3:00 PM", "address": "17519 Vashon Highway SW, Vashon", "endTime": "6:00 PM", "market": "Vashon Wednesday Farmers Market"}
+{"startDate": "05/16", "endDate": "09/26", "days": ["Wednesday"], "startTime": "3:00 PM", "address": "4850 Meridian Avenue North, Seattle", "endTime": "7:00 PM", "market": "Wallingford Farmers Market"}
+{"startDate": "06/7", "endDate": "08/30", "days": ["Thursday"], "startTime": "1:00 PM", "address": "3207 Harborview Drive, Gig Harbor", "endTime": "7:00 PM", "market": "Waterfront Farmers Market of Gig Harbor"}
+{"startDate": "01/1", "endDate": "12/31", "days": ["Sunday"], "startTime": "10:00 AM", "address": "California Avenue SW and SW Alaska Street, Seattle", "endTime": "2:00 PM", "market": "West Seattle Farmers Market"}
+{"startDate": "05/5", "endDate": "09/29", "days": ["Saturday"], "startTime": "9:00 AM", "address": "13680 NE 175th Street, Woodinville", "endTime": "3:00 PM", "market": "Woodinville Farmers Market"}
+{"startDate": "05/28", "endDate": "10/29", "days": ["Sunday"], "startTime": "10:00 AM", "address": "17835 State Route 507, Yelm", "endTime": "3:00 PM", "market": "Yelm Farmers Market"}
