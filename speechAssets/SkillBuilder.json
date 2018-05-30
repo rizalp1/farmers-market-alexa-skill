@@ -20,7 +20,7 @@
           "what time does the {MarketName} open",
           "what day is {MarketName} open",
           "what day is {MarketName}",
-          "when will {MarketName} open",
+          "when will {MarketName} open"
         ],
         "slots": [
           {

@@ -1,7 +1,16 @@
 {
   "intents": [
     {
-      "intent": "FarmersMarketIntent"
+      "intent": "FarmersMarketWhenIntent"
+    },
+    {
+      "intent": "FarmersMarketWhereIntent"
+    },
+    {
+      "intent": "FarmersMarketWhichIntent"
+    },
+    {
+      "intent": "FarmersMarketDescribeIntent"
     },
     {
       "intent": "AMAZON.StopIntent"

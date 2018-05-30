@@ -16,11 +16,7 @@ package com.pradeeprizal.ask.farmersmkt;
 import com.amazon.ask.Skill;
 import com.amazon.ask.Skills;
 import com.amazon.ask.SkillStreamHandler;
-import com.pradeeprizal.ask.farmersmkt.handlers.CancelandStopIntentHandler;
-import com.pradeeprizal.ask.farmersmkt.handlers.FarmersMarketIntentHandler;
-import com.pradeeprizal.ask.farmersmkt.handlers.HelpIntentHandler;
-import com.pradeeprizal.ask.farmersmkt.handlers.SessionEndedRequestHandler;
-import com.pradeeprizal.ask.farmersmkt.handlers.LaunchRequestHandler;
+import com.pradeeprizal.ask.farmersmkt.handlers.*;
 
 public class FarmersMarketStreamHandler extends SkillStreamHandler {
 
@@ -29,6 +25,7 @@ public class FarmersMarketStreamHandler extends SkillStreamHandler {
                 .addRequestHandlers(
                         new CancelandStopIntentHandler(),
                         new FarmersMarketIntentHandler(),
+                        new FarmersMarketDescribeIntentHandler(),
                         new HelpIntentHandler(),
                         new LaunchRequestHandler(),
                         new SessionEndedRequestHandler())
