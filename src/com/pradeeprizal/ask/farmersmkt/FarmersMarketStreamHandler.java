@@ -24,13 +24,13 @@ public class FarmersMarketStreamHandler extends SkillStreamHandler {
         return Skills.standard()
                 .addRequestHandlers(
                         new CancelandStopIntentHandler(),
-                        new FarmersMarketIntentHandler(),
+                        new FarmersMarketWhichIntentHandler(),
                         new FarmersMarketDescribeIntentHandler(),
                         new HelpIntentHandler(),
                         new LaunchRequestHandler(),
                         new SessionEndedRequestHandler())
                 // Add your skill id below
-                //.withSkillId("")
+                .withSkillId("amzn1.ask.skill.72e8eb9c-8efe-4ebd-b3bb-e605621159e3")
                 .build();
     }
 

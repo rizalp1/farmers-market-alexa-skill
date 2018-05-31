@@ -28,6 +28,9 @@ import java.util.stream.Collectors;
 
 import static com.amazon.ask.request.Predicates.intentName;
 
+/**
+ * Answers questions like where is a market, when is market open, and describe the market.
+ */
 public class FarmersMarketDescribeIntentHandler implements RequestHandler {
 
     private final FarmersMarketDatasetClient mClient;
@@ -43,7 +46,9 @@ public class FarmersMarketDescribeIntentHandler implements RequestHandler {
 
     @Override
     public boolean canHandle(HandlerInput input) {
-        return input.matches(intentName("FarmersMarketIntent"));
+        return input.matches(intentName("FarmersMarketDescribeIntent")) ||
+                input.matches(intentName("FarmersMarketWhereIntent")) ||
+                input.matches(intentName("FarmersMarketWhenIntent"));
     }
 
     @Override
@@ -74,7 +79,7 @@ public class FarmersMarketDescribeIntentHandler implements RequestHandler {
                 .append(market.getEndTime())
                 .toString();
 
-        return buildResponse(input, speechText.toString());
+        return buildResponse(input, speechText);
     }
 
     private Optional<Response> buildResponse(final HandlerInput input, final String speechText) {

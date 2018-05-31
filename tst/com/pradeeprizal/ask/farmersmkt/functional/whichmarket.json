@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": true,
+    "sessionId": "amzn1.echo-api.session.a66b78a8-3ddf-4e74-be5d-826458d81d12",
+    "application": {
+      "applicationId": "amzn1.ask.skill.72e8eb9c-8efe-4ebd-b3bb-e605621159e3"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AGALY4LIQQ3QCAFTP4GKA2HFS2KD7AYO6PFT7GTIP7F2Y5QGNNRVIF7B7HN545UBEQFNCKFPNMVL6NBJZ2SLKEHKMCZF37LQANIDPSRDHIYF76PPAMO4LK7TRH2QZE3RA7RCQWPPXXS2PK5FLXI7KMYGWTZIDXXBNSZK6CY5526EWP4RZUW6NHUL2AADXBRU5ZUNHZRJTV6TFTA"
+    }
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "Display": {
+      "token": ""
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.72e8eb9c-8efe-4ebd-b3bb-e605621159e3"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AGALY4LIQQ3QCAFTP4GKA2HFS2KD7AYO6PFT7GTIP7F2Y5QGNNRVIF7B7HN545UBEQFNCKFPNMVL6NBJZ2SLKEHKMCZF37LQANIDPSRDHIYF76PPAMO4LK7TRH2QZE3RA7RCQWPPXXS2PK5FLXI7KMYGWTZIDXXBNSZK6CY5526EWP4RZUW6NHUL2AADXBRU5ZUNHZRJTV6TFTA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AH53NOUPMLB5MGR7CUGRPFU6LTTMBMVNZY527KI5FLRIHSQBLY5Z2KH3IT56AXDEIRNCREYZNEZM426EIQLOQ4FKQQCB4QLUF6Y5VO4QSEBCC5ISAIQPVUCEODE2PQ4H53IVUP2C24AXSGRJVAZJG7AXK3EWRB6BPKKN4RNPUV5DGJUIFFGSC",
+        "supportedInterfaces": {
+          "AudioPlayer": {},
+          "Display": {
+            "templateVersion": "1.0",
+            "markupVersion": "1.0"
+          }
+        }
+      },
+      "apiEndpoint": "https://api.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjcyZThlYjljLThlZmUtNGViZC1iM2JiLWU2MDU2MjExNTllMyIsImV4cCI6MTUyNzc0MjMwNSwiaWF0IjoxNTI3NzM4NzA1LCJuYmYiOjE1Mjc3Mzg3MDUsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUg1M05PVVBNTEI1TUdSN0NVR1JQRlU2TFRUTUJNVk5aWTUyN0tJNUZMUklIU1FCTFk1WjJLSDNJVDU2QVhERUlSTkNSRVlaTkVaTTQyNkVJUUxPUTRGS1FRQ0I0UUxVRjZZNVZPNFFTRUJDQzVJU0FJUVBWVUNFT0RFMlBRNEg1M0lWVVAyQzI0QVhTR1JKVkFaSkc3QVhLM0VXUkI2QlBLS040Uk5QVVY1REdKVUlGRkdTQyIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFHQUxZNExJUVEzUUNBRlRQNEdLQTJIRlMyS0Q3QVlPNlBGVDdHVElQN0YyWTVRR05OUlZJRjdCN0hONTQ1VUJFUUZOQ0tGUE5NVkw2TkJKWjJTTEtFSEtNQ1pGMzdMUUFOSURQU1JESElZRjc2UFBBTU80TEs3VFJIMlFaRTNSQTdSQ1FXUFBYWFMyUEs1RkxYSTdLTVlHV1RaSURYWEJOU1pLNkNZNTUyNkVXUDRSWlVXNk5IVUwyQUFEWEJSVTVaVU5IWlJKVFY2VEZUQSJ9fQ.Q87u4-3M91fOJy7aoBKpKkKBBGz1OCUSyvNLA3ArxRrJUFbb8A01YF6q834bYTPWsAOw9EyjGN4TCFLsaGBSFGNrEoZ2eNR7ioYluh_lFGJ9NzcDWJ6kdsIeOvc-JtjZD89eQQP_vLurOyiOs7OfeUQ2IJxMxpKBZ411piLeMrui0M-P6AyF3JTW-x5YvzRWrLIFEG8O8Rb8OjNAgfzAJBU_AvNy9o_xqKpCyVvJvgJajFh7fKAXTqugI-bPUagEFwjUcM4EO6QIW-mQUhRSRmSIPU-CULAXNwsMVAPoEeRgpOP9xuyNs89C3cQa1pkbkZBwGIbZfXH1HPH50P3KCw"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.429a5962-00a7-437c-85c2-928c1a4b9f92",
+    "timestamp": "2018-05-31T03:51:45Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "FarmersMarketWhichIntent",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "TimeSlot": {
+          "name": "TimeSlot",
+          "value": "Tomorrow",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.72e8eb9c-8efe-4ebd-b3bb-e605621159e3.LIST_OF_TIME_VALUES",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "saturday",
+                      "id": "6036c3d913f49f28f35d734589840310"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        }
+      }
+    }
+  }
+}

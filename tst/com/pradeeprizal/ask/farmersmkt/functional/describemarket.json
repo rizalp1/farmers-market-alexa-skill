@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": true,
+    "sessionId": "amzn1.echo-api.session.6e760089-31c3-4761-a878-8a1b876a2139",
+    "application": {
+      "applicationId": "amzn1.ask.skill.72e8eb9c-8efe-4ebd-b3bb-e605621159e3"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AGALY4LIQQ3QCAFTP4GKA2HFS2KD7AYO6PFT7GTIP7F2Y5QGNNRVIF7B7HN545UBEQFNCKFPNMVL6NBJZ2SLKEHKMCZF37LQANIDPSRDHIYF76PPAMO4LK7TRH2QZE3RA7RCQWPPXXS2PK5FLXI7KMYGWTZIDXXBNSZK6CY5526EWP4RZUW6NHUL2AADXBRU5ZUNHZRJTV6TFTA"
+    }
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "Display": {
+      "token": ""
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.72e8eb9c-8efe-4ebd-b3bb-e605621159e3"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AGALY4LIQQ3QCAFTP4GKA2HFS2KD7AYO6PFT7GTIP7F2Y5QGNNRVIF7B7HN545UBEQFNCKFPNMVL6NBJZ2SLKEHKMCZF37LQANIDPSRDHIYF76PPAMO4LK7TRH2QZE3RA7RCQWPPXXS2PK5FLXI7KMYGWTZIDXXBNSZK6CY5526EWP4RZUW6NHUL2AADXBRU5ZUNHZRJTV6TFTA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AH53NOUPMLB5MGR7CUGRPFU6LTTMBMVNZY527KI5FLRIHSQBLY5Z2KH3IT56AXDEIRNCREYZNEZM426EIQLOQ4FKQQCB4QLUF6Y5VO4QSEBCC5ISAIQPVUCEODE2PQ4H53IVUP2C24AXSGRJVAZJG7AXK3EWRB6BPKKN4RNPUV5DGJUIFFGSC",
+        "supportedInterfaces": {
+          "AudioPlayer": {},
+          "Display": {
+            "templateVersion": "1.0",
+            "markupVersion": "1.0"
+          }
+        }
+      },
+      "apiEndpoint": "https://api.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjcyZThlYjljLThlZmUtNGViZC1iM2JiLWU2MDU2MjExNTllMyIsImV4cCI6MTUyNzczNTM1MiwiaWF0IjoxNTI3NzMxNzUyLCJuYmYiOjE1Mjc3MzE3NTIsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUg1M05PVVBNTEI1TUdSN0NVR1JQRlU2TFRUTUJNVk5aWTUyN0tJNUZMUklIU1FCTFk1WjJLSDNJVDU2QVhERUlSTkNSRVlaTkVaTTQyNkVJUUxPUTRGS1FRQ0I0UUxVRjZZNVZPNFFTRUJDQzVJU0FJUVBWVUNFT0RFMlBRNEg1M0lWVVAyQzI0QVhTR1JKVkFaSkc3QVhLM0VXUkI2QlBLS040Uk5QVVY1REdKVUlGRkdTQyIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFHQUxZNExJUVEzUUNBRlRQNEdLQTJIRlMyS0Q3QVlPNlBGVDdHVElQN0YyWTVRR05OUlZJRjdCN0hONTQ1VUJFUUZOQ0tGUE5NVkw2TkJKWjJTTEtFSEtNQ1pGMzdMUUFOSURQU1JESElZRjc2UFBBTU80TEs3VFJIMlFaRTNSQTdSQ1FXUFBYWFMyUEs1RkxYSTdLTVlHV1RaSURYWEJOU1pLNkNZNTUyNkVXUDRSWlVXNk5IVUwyQUFEWEJSVTVaVU5IWlJKVFY2VEZUQSJ9fQ.LTlGEoFUMiJODTeI1IiEyR-LCQRrNP74GmqmAcKYXn901DhCwBJ4OLEbiiM5u6bSHHXNoZuW_rZn84qpadg5YXAdtEyXWS30X8PG9w0CoDyjirsMOUnRt4ahfR57fhwYEF7vQK_1I1qHG6nwpljOqFtEYF8ueBBV5czq44RgP31CaxOGFM6tuF419zo5yEvxyxKUwsS1c9NRoPbsqk5yg4gXQo5EffrIZ7edlAzGKm2N04k58fYCH-Wln0lRNNHNDeBTf71unMy5-DzWvIaTWbcCwY70wMcv-VQlfq-nQyIYjW-8MAtqB3kaMSSzfZpN_5d6v-2GLgb1vWAgZZUV0A"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.352635ab-de84-417a-8034-b6728e340d48",
+    "timestamp": "2018-05-31T01:55:52Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "FarmersMarketDescribeIntent",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "MarketName": {
+          "name": "MarketName",
+          "value": "Ballard market",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.72e8eb9c-8efe-4ebd-b3bb-e605621159e3.LIST_OF_MARKETS",
+                "status": {
+                  "code": "ER_SUCCESS_NO_MATCH"
+                }
+              }
+            ]
+          },
+          "confirmationStatus": "NONE"
+        }
+      }
+    }
+  }
+}

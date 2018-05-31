@@ -2,6 +2,7 @@ package com.pradeeprizal.ask.farmersmkt.dataset;
 
 import com.pradeeprizal.ask.farmersmkt.dataset.model.FarmersMarketRecord;
 
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
@@ -22,7 +23,7 @@ public class InMemoryFarmersMarketClient implements FarmersMarketDatasetClient {
         return Optional.of(
                 FarmersMarketRecord.builder()
                     .market("Ballard Farmers Market")
-                    .days(Collections.singletonList("Sunday"))
+                    .days(Arrays.asList("Sunday", "Monday"))
                     .startTime("9:00AM")
                     .endTime("3:00PM")
                     .startDate("1/1")
