@@ -22,7 +22,6 @@ import com.pradeeprizal.ask.farmersmkt.dataset.InMemoryFarmersMarketClient;
 import com.pradeeprizal.ask.farmersmkt.dataset.model.FarmersMarketRecord;
 
 import java.util.Collections;
-import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
