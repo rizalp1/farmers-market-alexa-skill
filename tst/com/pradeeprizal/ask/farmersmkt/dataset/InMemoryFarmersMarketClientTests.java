@@ -16,7 +16,7 @@ import java.util.Optional;
 public class InMemoryFarmersMarketClientTests {
     private List<FarmersMarketRecord> mRecords =
             Arrays.asList(
-                    FarmersMarketRecord.builder().market("Ballard").days(Arrays.asList("Sunday", "Monday")).build(),
+                    FarmersMarketRecord.builder().market("Ballard Farmers Market").days(Arrays.asList("Sunday", "Monday")).build(),
                     FarmersMarketRecord.builder().market("Capitol").days(Arrays.asList("Sunday", "Tuesday")).build(),
                     FarmersMarketRecord.builder().market("Pike").days(Arrays.asList("Sunday")).build()
             );
@@ -47,7 +47,6 @@ public class InMemoryFarmersMarketClientTests {
                 {"Capitol Hill"},
                 {"Pike Place"},
                 {"Pike"},
-                {"Downtown"},
                 {"Pike Place Market"},
                 {"Ballard Farmers Market"},
                 {"Ballard Market"}
@@ -58,7 +57,7 @@ public class InMemoryFarmersMarketClientTests {
     public Object[][] dataProviderNotExists() {
         return new Object[][]{
                 {"Bainbridge"},
-                {"Ballard Market Farmers"}
+                {"Random Markets"}
         };
     }
 }

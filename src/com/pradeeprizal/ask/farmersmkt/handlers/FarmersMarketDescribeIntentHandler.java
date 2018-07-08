@@ -1,16 +1,3 @@
-/*
-     Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-
-     Licensed under the Apache License, Version 2.0 (the "License"). You may not use this file
-     except in compliance with the License. A copy of the License is located at
-
-         http://aws.amazon.com/apache2.0/
-
-     or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for
-     the specific language governing permissions and limitations under the License.
-*/
-
 package com.pradeeprizal.ask.farmersmkt.handlers;
 
 import com.amazon.ask.dispatcher.request.handler.HandlerInput;
@@ -18,10 +5,10 @@ import com.amazon.ask.dispatcher.request.handler.RequestHandler;
 import com.amazon.ask.model.*;
 import com.pradeeprizal.ask.farmersmkt.constants.AlexaSkillsConstants;
 import com.pradeeprizal.ask.farmersmkt.dataset.FarmersMarketDatasetClient;
+import com.pradeeprizal.ask.farmersmkt.dataset.FileBasedDatasetLoader;
 import com.pradeeprizal.ask.farmersmkt.dataset.InMemoryFarmersMarketClient;
 import com.pradeeprizal.ask.farmersmkt.dataset.model.FarmersMarketRecord;
 
-import java.util.Collections;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
@@ -39,8 +26,7 @@ public class FarmersMarketDescribeIntentHandler implements RequestHandler {
     }
 
     public FarmersMarketDescribeIntentHandler() {
-        // TODO: Replace with real list.
-        this(new InMemoryFarmersMarketClient(Collections.emptyList()));
+        this(new InMemoryFarmersMarketClient(new FileBasedDatasetLoader().load()));
     }
 
     @Override
@@ -67,7 +53,7 @@ public class FarmersMarketDescribeIntentHandler implements RequestHandler {
 
         FarmersMarketRecord market =  optionalMarket.get();
         String speechText = new StringBuilder()
-                .append(marketNameSlot.getValue())
+                .append(market.getMarket())
                 .append(" is located at ")
                 .append(market.getAddress())
                 .append(" and is open on ")

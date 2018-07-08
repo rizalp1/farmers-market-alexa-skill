@@ -28,4 +28,21 @@ public class HandlersFunctionalTests {
 
         // TODO: Add assertion, using object mapper, read the output, and assert that response has correct text.
     }
+
+    @Test
+    public void testDescribeMarket() throws IOException {
+        FarmersMarketStreamHandler handler = new FarmersMarketStreamHandler();
+        InputStream inputStream = Thread.currentThread().getContextClassLoader().getResourceAsStream(DESCRIBE_MARKET_INPUT_FILE);
+
+        File fstream = File.createTempFile("tmp",".json");
+        FileOutputStream fostream = new FileOutputStream(fstream);
+
+        handler.handleRequest(inputStream, fostream, null);
+        String result = FileUtils.readFileToString(fstream, Charsets.toCharset("utf-8"));
+        System.out.println(result);
+        fstream.deleteOnExit();
+
+        // TODO: Add assertion, using object mapper, read the output, and assert that response has correct text.
+    }
+
 }
