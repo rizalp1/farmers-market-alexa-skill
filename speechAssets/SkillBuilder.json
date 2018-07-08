@@ -14,38 +14,6 @@
         "samples": []
       },
       {
-        "name": "FarmersMarketWhenIntent",
-        "samples": [
-          "when is the {MarketName} open",
-          "what time does the {MarketName} open",
-          "what day is {MarketName} open",
-          "what day is {MarketName}",
-          "when will {MarketName} open"
-        ],
-        "slots": [
-          {
-            "name": "MarketName",
-            "type": "LIST_OF_MARKETS"
-          }
-        ]
-      },
-      {
-        "name": "FarmersMarketWhereIntent",
-        "samples": [
-          "where is {MarketName}",
-          "what is {MarketName} address",
-          "what is the address of {MarketName}",
-          "what street is {MarketName} at",
-          "what street is {MarketName}"
-        ],
-        "slots": [
-          {
-            "name": "MarketName",
-            "type": "LIST_OF_MARKETS"
-          }
-        ]
-      },
-      {
         "name": "FarmersMarketWhichIntent",
         "samples": [
           "which market is open on {TimeSlot}",
@@ -69,7 +37,17 @@
           "describe {MarketName}",
           "details about {MarketName}",
           "give me details about {MarketName}",
-          "{MarketName}"
+          "{MarketName}",
+          "where is {MarketName}",
+          "what is {MarketName} address",
+          "what is the address of {MarketName}",
+          "what street is {MarketName} at",
+          "what street is {MarketName}",
+          "when is the {MarketName} open",
+          "what time does the {MarketName} open",
+          "what day is {MarketName} open",
+          "what day is {MarketName}",
+          "when will {MarketName} open"
         ],
         "slots": [
           {
@@ -84,11 +62,6 @@
       {
         "name": "LIST_OF_MARKETS",
         "values": [
-          {
-            "name": {
-              "value": "Anacortes Farmers Market"
-            }
-          },
           {
             "name": {
               "value": "Anacortes Farmers Market"
@@ -127,11 +100,6 @@
           {
             "name": {
               "value": "Bellevue Farmers Market"
-            }
-          },
-          {
-            "name": {
-              "value": "Bellingham Farmers Market - Downtown"
             }
           },
           {
@@ -192,11 +160,6 @@
           {
             "name": {
               "value": "Crossroads Farmers Market"
-            }
-          },
-          {
-            "name": {
-              "value": "Des Moines Waterfront Farmers Market"
             }
           },
           {
@@ -461,11 +424,6 @@
           },
           {
             "name": {
-              "value": "Proctor Farmers Market"
-            }
-          },
-          {
-            "name": {
               "value": "Puyallup Farmers Market"
             }
           },
@@ -487,16 +445,6 @@
           {
             "name": {
               "value": "Sammamish Farmers Market"
-            }
-          },
-          {
-            "name": {
-              "value": "San Juan Island Farmers Market"
-            }
-          },
-          {
-            "name": {
-              "value": "San Juan Island Farmers Market"
             }
           },
           {
@@ -557,16 +505,6 @@
           {
             "name": {
               "value": "The Landing Farmers Market in Renton"
-            }
-          },
-          {
-            "name": {
-              "value": "The Olympia Farmers Market"
-            }
-          },
-          {
-            "name": {
-              "value": "The Olympia Farmers Market"
             }
           },
           {
